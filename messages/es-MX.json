@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "features": "Funciones",
+    "howItWorks": "Cómo Funciona",
+    "testimonials": "Testimonios",
+    "blog": "Blog",
+    "download": "Descarga Gratis"
+  },
+  "hero": {
+    "title": "Transforma tus emociones en autoconocimiento",
+    "subtitle": "El diario emocional con IA que te ayuda a entender tus emociones, desarrollar autoconocimiento y crecer como persona.",
+    "cta": "Descarga Gratis",
+    "ctaSubtitle": "Disponible para iOS y Android",
+    "badge": "Nuevo: reflexiones personalizadas con IA"
+  },
+  "features": {
+    "title": "Todo lo que necesitas para tu bienestar emocional",
+    "subtitle": "Herramientas poderosas y simples para transformar tu relación con tus emociones",
+    "items": [
+      {
+        "icon": "📔",
+        "title": "Diario Emocional con IA",
+        "description": "Registra cómo te sientes en cualquier momento. Nuestra IA analiza tus patrones emocionales y ofrece insights únicos sobre ti."
+      },
+      {
+        "icon": "✨",
+        "title": "Reflexiones Personalizadas",
+        "description": "Recibe reflexiones profundas basadas en lo que compartes. Cada insight es único y pensado especialmente para tu momento de vida."
+      },
+      {
+        "icon": "📈",
+        "title": "Sigue Tu Evolución",
+        "description": "Visualiza tu camino emocional a lo largo del tiempo. Gráficas y tendencias que muestran tu crecimiento real y concreto."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Cómo funciona",
+    "subtitle": "Tres pasos simples para comenzar tu transformación",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Registra",
+        "description": "Abre la app y escribe cómo te estás sintiendo. Sin juicios, sin presión — solo tú y tus pensamientos."
+      },
+      {
+        "number": "02",
+        "title": "Recibe Insights",
+        "description": "Nuestra IA analiza lo que compartiste y ofrece reflexiones profundas, preguntas poderosas y perspectivas que quizás no habías considerado."
+      },
+      {
+        "number": "03",
+        "title": "Crece",
+        "description": "Con el tiempo, empiezas a reconocer patrones, entender tus detonantes y desarrollar una relación más saludable con tus emociones."
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros usuarios",
+    "subtitle": "Historias reales de transformación emocional"
+  },
+  "blog": {
+    "title": "De nuestro blog",
+    "subtitle": "Artículos sobre salud mental, autoconocimiento y bienestar",
+    "readMore": "Leer artículo",
+    "viewAll": "Ver todos los artículos",
+    "backToBlog": "← Volver al blog",
+    "publishedOn": "Publicado el"
+  },
+  "cta": {
+    "title": "Comienza tu viaje hoy",
+    "subtitle": "Únete a miles de personas que ya están transformando su relación con las emociones. Gratis para siempre.",
+    "button": "Descarga Metamorfosis",
+    "noCard": "Sin tarjeta de crédito. Gratis para siempre."
+  },
+  "footer": {
+    "tagline": "Tu diario emocional con inteligencia artificial.",
+    "product": "Producto",
+    "features": "Funciones",
+    "blog": "Blog",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Uso",
+    "social": "Redes Sociales",
+    "rights": "Todos los derechos reservados.",
+    "madeWith": "Hecho con"
+  },
+  "meta": {
+    "title": "Metamorfosis — Diario Emocional con IA",
+    "description": "Transforma tus emociones en autoconocimiento con Metamorfosis. Diario emocional con inteligencia artificial para tu bienestar mental.",
+    "blogTitle": "Blog — Metamorfosis",
+    "blogDescription": "Artículos sobre salud mental, autoconocimiento, emociones y bienestar emocional."
+  }
+}
