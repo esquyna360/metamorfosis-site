@@ -38,16 +38,24 @@ export async function generateMetadata({ params: { locale, slug } }: Props): Pro
       description: post.description,
       url,
       type: 'article',
+      siteName: 'Metamorfosis',
       publishedTime: post.date,
       tags: post.tags,
+      locale: locale === 'pt-BR' ? 'pt_BR' : 'es_MX',
     },
     twitter: {
       card: 'summary_large_image',
       title: post.title,
       description: post.description,
+      site: '@metamorfosisapp',
     },
     alternates: {
       canonical: url,
+      languages: {
+        'pt-BR': `https://metamorfosisapp.com/pt-BR/blog/${slug}`,
+        'es-MX': `https://metamorfosisapp.com/es-MX/blog/${slug}`,
+        'x-default': `https://metamorfosisapp.com/pt-BR/blog/${slug}`,
+      },
     },
   };
 }

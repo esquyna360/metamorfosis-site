@@ -16,9 +16,32 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'meta' });
+  const url = `https://metamorfosisapp.com/${locale}`;
   return {
     title: t('title'),
     description: t('description'),
+    alternates: {
+      canonical: url,
+      languages: {
+        'pt-BR': 'https://metamorfosisapp.com/pt-BR',
+        'es-MX': 'https://metamorfosisapp.com/es-MX',
+        'x-default': 'https://metamorfosisapp.com/pt-BR',
+      },
+    },
+    openGraph: {
+      title: t('title'),
+      description: t('description'),
+      url,
+      type: 'website',
+      siteName: 'Metamorfosis',
+      locale: locale === 'pt-BR' ? 'pt_BR' : 'es_MX',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: t('title'),
+      description: t('description'),
+      site: '@metamorfosisapp',
+    },
   };
 }
 
