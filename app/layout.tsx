@@ -6,14 +6,11 @@ export const metadata: Metadata = {
   description: 'Transforme seus sentimentos em autoconhecimento com o Metamorfosis.',
 };
 
+// Root layout is a pass-through; locale layout sets <html lang={locale}>.
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  return (
-    <html>
-      <body>{children}</body>
-    </html>
-  );
+  return children;
 }

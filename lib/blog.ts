@@ -11,6 +11,7 @@ export interface BlogPost {
   date: string;
   tags: string[];
   coverImage?: string;
+  translationSlug?: string;
   content: string;
   locale: string;
 }
@@ -22,6 +23,7 @@ export interface BlogPostMeta {
   date: string;
   tags: string[];
   coverImage?: string;
+  translationSlug?: string;
   locale: string;
 }
 
@@ -48,6 +50,7 @@ export function getPostBySlug(slug: string, locale: string): BlogPostMeta | null
     date: data.date ?? '',
     tags: data.tags ?? [],
     coverImage: data.coverImage,
+    translationSlug: data.translationSlug,
     locale,
   };
 }
@@ -70,6 +73,7 @@ export async function getPostWithContent(slug: string, locale: string): Promise<
     date: data.date ?? '',
     tags: data.tags ?? [],
     coverImage: data.coverImage,
+    translationSlug: data.translationSlug,
     content: htmlContent,
     locale,
   };

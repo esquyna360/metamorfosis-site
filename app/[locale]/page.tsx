@@ -64,6 +64,13 @@ const jsonLd = {
   },
 };
 
+const websiteJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Metamorfosis',
+  url: 'https://metamorfosisapp.com',
+};
+
 export default async function HomePage({
   params: { locale },
 }: {
@@ -79,6 +86,10 @@ export default async function HomePage({
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
       />
       <Hero />
       <Features />

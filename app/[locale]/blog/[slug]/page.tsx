@@ -30,6 +30,11 @@ export async function generateMetadata({ params: { locale, slug } }: Props): Pro
 
   const url = `https://metamorfosisapp.com/${locale}/blog/${slug}`;
 
+  // Build cross-locale hreflang URLs using translationSlug if available
+  const altSlug = post.translationSlug ?? slug;
+  const ptSlug = locale === 'pt-BR' ? slug : altSlug;
+  const esSlug = locale === 'es-MX' ? slug : altSlug;
+
   return {
     title: post.title,
     description: post.description,
@@ -52,9 +57,9 @@ export async function generateMetadata({ params: { locale, slug } }: Props): Pro
     alternates: {
       canonical: url,
       languages: {
-        'pt-BR': `https://metamorfosisapp.com/pt-BR/blog/${slug}`,
-        'es-MX': `https://metamorfosisapp.com/es-MX/blog/${slug}`,
-        'x-default': `https://metamorfosisapp.com/pt-BR/blog/${slug}`,
+        'pt-BR': `https://metamorfosisapp.com/pt-BR/blog/${ptSlug}`,
+        'es-MX': `https://metamorfosisapp.com/es-MX/blog/${esSlug}`,
+        'x-default': `https://metamorfosisapp.com/pt-BR/blog/${ptSlug}`,
       },
     },
   };
@@ -69,19 +74,27 @@ export default async function BlogPostPage({ params: { locale, slug } }: Props) 
     notFound();
   }
 
+  const articleUrl = `https://metamorfosisapp.com/${locale}/blog/${slug}`;
   const articleJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: post.title,
     description: post.description,
     datePublished: post.date,
+    dateModified: post.date,
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': articleUrl,
+    },
     author: {
       '@type': 'Organization',
       name: 'Metamorfosis',
+      url: 'https://metamorfosisapp.com',
     },
     publisher: {
       '@type': 'Organization',
       name: 'Metamorfosis',
+      url: 'https://metamorfosisapp.com',
       logo: {
         '@type': 'ImageObject',
         url: 'https://metamorfosisapp.com/logo.png',

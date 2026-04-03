@@ -10,12 +10,31 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'meta' });
+  const url = `https://metamorfosisapp.com/${locale}/blog`;
   return {
     title: t('blogTitle'),
     description: t('blogDescription'),
+    alternates: {
+      canonical: url,
+      languages: {
+        'pt-BR': 'https://metamorfosisapp.com/pt-BR/blog',
+        'es-MX': 'https://metamorfosisapp.com/es-MX/blog',
+        'x-default': 'https://metamorfosisapp.com/pt-BR/blog',
+      },
+    },
     openGraph: {
       title: t('blogTitle'),
       description: t('blogDescription'),
+      url,
+      type: 'website',
+      siteName: 'Metamorfosis',
+      locale: locale === 'pt-BR' ? 'pt_BR' : 'es_MX',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: t('blogTitle'),
+      description: t('blogDescription'),
+      site: '@metamorfosisapp',
     },
   };
 }
@@ -29,8 +48,49 @@ export default async function BlogPage({
   const t = await getTranslations({ locale, namespace: 'blog' });
   const posts = getAllPosts(locale);
 
+  const itemListJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: locale === 'pt-BR' ? 'Artigos sobre Saúde Emocional' : 'Artículos sobre Salud Emocional',
+    url: `https://metamorfosisapp.com/${locale}/blog`,
+    numberOfItems: posts.length,
+    itemListElement: posts.map((post, index) => ({
+      '@type': 'ListItem',
+      position: index + 1,
+      url: `https://metamorfosisapp.com/${locale}/blog/${post.slug}`,
+      name: post.title,
+    })),
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Metamorfosis',
+        item: `https://metamorfosisapp.com/${locale}`,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: locale === 'pt-BR' ? 'Blog' : 'Blog',
+        item: `https://metamorfosisapp.com/${locale}/blog`,
+      },
+    ],
+  };
+
   return (
     <div className="min-h-screen bg-gray-50 pt-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListJsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
+      />
       {/* Header */}
       <div className="bg-gradient-to-br from-purple-900 via-purple-700 to-violet-600 py-20 px-4">
         <div className="max-w-4xl mx-auto text-center">
