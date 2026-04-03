@@ -3,6 +3,7 @@ title: "Journaling para la Ansiedad: 7 Técnicas que Realmente Funcionan"
 description: "Aprende a usar el journaling para reducir la ansiedad con técnicas comprobadas por la psicología. Ejercicios prácticos para empezar hoy y transformar tu relación con los pensamientos ansiosos."
 date: "2026-04-02"
 slug: "journaling-para-la-ansiedad-tecnicas-que-funcionan"
+translationSlug: "journaling-para-ansiedade-tecnicas-que-funcionam"
 tags: ["journaling", "ansiedad", "salud-mental", "tecnicas", "escritura-terapeutica"]
 ---
 

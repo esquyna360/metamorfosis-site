@@ -3,6 +3,7 @@ title: "Cómo un diario emocional puede transformar tu salud mental"
 description: "Descubre los beneficios científicos de escribir sobre tus emociones y cómo esta práctica simple puede cambiar tu vida."
 date: "2024-01-15"
 slug: "como-un-diario-emocional-puede-transformar-tu-salud-mental"
+translationSlug: "como-um-diario-emocional-pode-transformar-sua-saude-mental"
 tags: ["salud-mental", "diario", "bienestar"]
 ---
 

@@ -3,6 +3,7 @@ title: "Cómo Crear una Rutina de Autocuidado Emocional que Realmente Funcione"
 description: "Aprende a construir una rutina diaria de autocuidado emocional sostenible, con técnicas basadas en ciencia y herramientas prácticas para cuidar tu salud mental cada día."
 date: "2026-04-02"
 slug: "como-crear-una-rutina-de-autocuidado-emocional"
+translationSlug: "como-criar-uma-rotina-de-autocuidado-emocional"
 tags: ["autocuidado", "rutina", "salud-mental", "bienestar", "habitos"]
 ---
 

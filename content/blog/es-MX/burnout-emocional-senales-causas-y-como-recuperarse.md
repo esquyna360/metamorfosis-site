@@ -3,6 +3,7 @@ title: "Burnout Emocional: Señales, Causas y Cómo Recuperarse de Verdad"
 description: "Comprende qué es el agotamiento emocional, cómo identificar sus señales antes de que sea tarde, y qué estrategias funcionan para recuperarse — con base en evidencias científicas."
 date: "2026-04-02"
 slug: "burnout-emocional-senales-causas-y-como-recuperarse"
+translationSlug: "burnout-emocional-sinais-causas-e-como-se-recuperar"
 tags: ["burnout", "agotamiento-emocional", "salud-mental", "recuperacion", "estres"]
 ---
 

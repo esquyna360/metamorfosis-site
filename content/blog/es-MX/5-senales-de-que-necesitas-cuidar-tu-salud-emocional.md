@@ -3,6 +3,7 @@ title: "5 señales de que necesitas cuidar tu salud emocional"
 description: "Aprende a reconocer cuando tus emociones piden atención y descubre consejos prácticos para empezar a cuidarte hoy."
 date: "2024-01-28"
 slug: "5-senales-de-que-necesitas-cuidar-tu-salud-emocional"
+translationSlug: "5-sinais-de-que-voce-precisa-cuidar-da-sua-saude-emocional"
 tags: ["salud-mental", "autocuidado", "emociones"]
 ---
 

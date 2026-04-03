@@ -3,6 +3,7 @@ title: "Burnout Emocional: Sinais, Causas e Como Se Recuperar de Verdade"
 description: "Entenda o que é o esgotamento emocional, como identificar seus sinais antes que seja tarde, e quais estratégias funcionam para se recuperar — com base em evidências científicas."
 date: "2026-04-02"
 slug: "burnout-emocional-sinais-causas-e-como-se-recuperar"
+translationSlug: "burnout-emocional-senales-causas-y-como-recuperarse"
 tags: ["burnout", "esgotamento-emocional", "saude-mental", "recuperacao", "estresse"]
 ---
 

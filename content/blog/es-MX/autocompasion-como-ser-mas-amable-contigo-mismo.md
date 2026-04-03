@@ -3,6 +3,7 @@ title: "Autocompasión: Cómo Ser Más Amable Contigo Mismo (y Por Qué Cambia T
 description: "Aprende qué es la autocompasión, por qué no es lo mismo que la autoindulgencia, y cómo cultivar esta habilidad para reducir la autocrítica, la ansiedad y mejorar tu bienestar emocional."
 date: "2026-04-02"
 slug: "autocompasion-como-ser-mas-amable-contigo-mismo"
+translationSlug: "autocompassao-como-ser-mais-gentil-consigo-mesmo"
 tags: ["autocompasion", "autocritica", "salud-mental", "bienestar", "autoconocimiento"]
 ---
 

@@ -3,6 +3,7 @@ title: "Inteligência artificial e saúde mental: como a IA pode ser sua aliada"
 description: "Entenda como a inteligência artificial está sendo usada de forma responsável para apoiar o bem-estar emocional e quando ela complementa (ou não substitui) a terapia."
 date: "2024-02-10"
 slug: "inteligencia-artificial-e-saude-mental"
+translationSlug: "inteligencia-artificial-y-salud-mental"
 tags: ["ia", "saude-mental", "tecnologia"]
 ---
 
