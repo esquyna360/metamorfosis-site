@@ -89,5 +89,21 @@
     "description": "Transforme seus sentimentos em autoconhecimento com o Metamorfosis. Diário emocional com inteligência artificial para seu bem-estar mental.",
     "blogTitle": "Blog — Metamorfosis",
     "blogDescription": "Artigos sobre saúde mental, autoconhecimento, emoções e bem-estar emocional."
+  },
+  "privacy": {
+    "metaTitle": "Política de Privacidade — Metamorfosis",
+    "metaDescription": "Saiba como o Metamorfosis coleta, usa e protege seus dados pessoais em conformidade com a LGPD.",
+    "title": "Política de Privacidade",
+    "lastUpdated": "Última atualização: abril de 2025",
+    "intro": "Sua privacidade é fundamental para nós. Esta Política explica como o Metamorfosis coleta, usa e protege suas informações pessoais.",
+    "contact": "Dúvidas sobre esta política? Entre em contato:"
+  },
+  "terms": {
+    "metaTitle": "Termos de Uso — Metamorfosis",
+    "metaDescription": "Leia os Termos de Uso do Metamorfosis antes de utilizar o aplicativo.",
+    "title": "Termos de Uso",
+    "lastUpdated": "Última atualização: abril de 2025",
+    "intro": "Bem-vindo ao Metamorfosis. Ao usar nosso aplicativo, você concorda com os termos descritos abaixo. Leia com atenção.",
+    "contact": "Dúvidas sobre estes termos? Entre em contato:"
   }
 }
