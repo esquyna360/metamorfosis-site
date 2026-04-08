@@ -1,7 +1,7 @@
 ---
 title: "Autocompaixão: Por Que Ser Gentil Consigo Mesmo Não É Fraqueza"
 description: "A pesquisadora Kristin Neff identificou 3 componentes da autocompaixão que transformam a relação com o crítico interno. Entenda a ciência e aprenda 3 exercícios práticos."
-date: "2026-04-03"
+date: "2024-04-13"
 slug: "autocompaixao-por-que-ser-gentil-consigo-mesmo-nao-e-fraqueza"
 translationSlug: "autocompasion-por-que-ser-amable-contigo-mismo-no-es-debilidad"
 tags: ["autocompaixao", "autoconhecimento", "saude-mental"]

@@ -1,7 +1,7 @@
 ---
 title: "Autocompasión: Cómo Ser Más Amable Contigo Mismo (y Por Qué Cambia Todo)"
 description: "Aprende qué es la autocompasión, por qué no es lo mismo que la autoindulgencia, y cómo cultivar esta habilidad para reducir la autocrítica, la ansiedad y mejorar tu bienestar emocional."
-date: "2026-04-02"
+date: "2024-03-31"
 slug: "autocompasion-como-ser-mas-amable-contigo-mismo"
 translationSlug: "autocompassao-como-ser-mais-gentil-consigo-mesmo"
 tags: ["autocompasion", "autocritica", "salud-mental", "bienestar", "autoconocimiento"]
@@ -110,4 +110,4 @@ Esa percepción ya es el comienzo de una relación diferente contigo mismo.
 
 ---
 
-***Metamorfosis** fue creado para ser ese espacio seguro de reflexión — donde puedes expresarte libremente, recibir perspectivas con IA y cultivar una relación más amable contigo mismo. [Descárgalo gratis →](https://metamorfosis-site.vercel.app)*
+***Metamorfosis** fue creado para ser ese espacio seguro de reflexión — donde puedes expresarte libremente, recibir perspectivas con IA y cultivar una relación más amable contigo mismo. [Descárgalo gratis →](https://metamorfosis.app)*

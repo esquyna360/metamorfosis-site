@@ -1,7 +1,7 @@
 ---
 title: "Autosabotaje: Por Qué Nos Impedimos de Ser Felices"
 description: "El autosabotaje es un patrón silencioso que bloquea logros y relaciones. Entiende sus raíces psicológicas y cómo empezar a interrumpirlo."
-date: "2026-04-02"
+date: "2024-05-22"
 slug: "autosabotaje-por-que-nos-impedimos-de-ser-felices"
 translationSlug: "autossabotagem-por-que-nos-impedimos-de-ser-felizes"
 tags: ["autosabotaje", "autoconocimiento", "salud-emocional", "comportamiento", "psicologia"]
@@ -87,4 +87,4 @@ La conciencia ya es una forma de cambio. Percibir el patrón no lo elimina insta
 
 ---
 
-***Metamorfosis** ofrece un espacio diario para observar tus patrones emocionales y conductuales con más claridad — con el apoyo de IA entrenada para acoger sin juzgar. Empieza ahora: [descarga gratis →](https://metamorfosisapp.com)*
+***Metamorfosis** ofrece un espacio diario para observar tus patrones emocionales y conductuales con más claridad — con el apoyo de IA entrenada para acoger sin juzgar. Empieza ahora: [descarga gratis →](https://metamorfosis.app)*

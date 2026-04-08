@@ -1,7 +1,7 @@
 ---
 title: "Relaciones Saludables: Lo Que la Ciencia Dice Sobre Conexiones que Nutren"
 description: "John Gottman identificó los patrones que destruyen relaciones — y los que las sostienen. Entiende la razón 5:1, los Cuatro Jinetes, y 3 prácticas basadas en evidencia para fortalecer cualquier relación."
-date: "2026-04-03"
+date: "2025-11-13"
 slug: "relaciones-saludables-lo-que-la-ciencia-dice"
 translationSlug: "relacionamentos-saudaveis-o-que-a-ciencia-diz"
 tags: ["relaciones", "salud-mental", "bienestar"]

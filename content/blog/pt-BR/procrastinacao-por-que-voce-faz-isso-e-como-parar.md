@@ -1,7 +1,7 @@
 ---
 title: "Procrastinação: Por Que Você Faz Isso e Como Parar"
 description: "Procrastinação não é preguiça — é uma falha na regulação emocional. Entenda o que diz a pesquisa de Pychyl, o papel da ansiedade e do perfeccionismo, e 4 estratégias baseadas em evidências para sair do ciclo."
-date: "2026-04-03"
+date: "2025-07-31"
 slug: "procrastinacao-por-que-voce-faz-isso-e-como-parar"
 translationSlug: "procrastinacion-por-que-lo-haces-y-como-parar"
 tags: ["produtividade", "autoconhecimento", "bem-estar"]

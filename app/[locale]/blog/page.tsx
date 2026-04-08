@@ -10,16 +10,17 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'meta' });
-  const url = `https://metamorfosisapp.com/${locale}/blog`;
+  const prefix = locale === 'pt-BR' ? '' : `/${locale}`;
+  const url = `https://metamorfosis.app${prefix}/blog`;
   return {
     title: t('blogTitle'),
     description: t('blogDescription'),
     alternates: {
       canonical: url,
       languages: {
-        'pt-BR': 'https://metamorfosisapp.com/pt-BR/blog',
-        'es-MX': 'https://metamorfosisapp.com/es-MX/blog',
-        'x-default': 'https://metamorfosisapp.com/pt-BR/blog',
+        'pt-BR': 'https://metamorfosis.app/blog',
+        'es-MX': 'https://metamorfosis.app/es-MX/blog',
+        'x-default': 'https://metamorfosis.app/blog',
       },
     },
     openGraph: {
@@ -48,16 +49,18 @@ export default async function BlogPage({
   const t = await getTranslations({ locale, namespace: 'blog' });
   const posts = getAllPosts(locale);
 
+  const pfx = locale === 'pt-BR' ? '' : `/${locale}`;
+
   const itemListJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
     name: locale === 'pt-BR' ? 'Artigos sobre Saúde Emocional' : 'Artículos sobre Salud Emocional',
-    url: `https://metamorfosisapp.com/${locale}/blog`,
+    url: `https://metamorfosis.app${pfx}/blog`,
     numberOfItems: posts.length,
     itemListElement: posts.map((post, index) => ({
       '@type': 'ListItem',
       position: index + 1,
-      url: `https://metamorfosisapp.com/${locale}/blog/${post.slug}`,
+      url: `https://metamorfosis.app${pfx}/blog/${post.slug}`,
       name: post.title,
     })),
   };
@@ -70,13 +73,13 @@ export default async function BlogPage({
         '@type': 'ListItem',
         position: 1,
         name: 'Metamorfosis',
-        item: `https://metamorfosisapp.com/${locale}`,
+        item: `https://metamorfosis.app${pfx}`,
       },
       {
         '@type': 'ListItem',
         position: 2,
         name: locale === 'pt-BR' ? 'Blog' : 'Blog',
-        item: `https://metamorfosisapp.com/${locale}/blog`,
+        item: `https://metamorfosis.app${pfx}/blog`,
       },
     ],
   };

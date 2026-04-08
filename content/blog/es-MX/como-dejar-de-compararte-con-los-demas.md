@@ -1,7 +1,7 @@
 ---
 title: "Cómo Dejar de Compararte con los Demás"
 description: "La comparación social es instintiva — pero en las redes sociales se convirtió en una trampa constante. Entiende la ciencia detrás del hábito y cuatro estrategias prácticas para salir del ciclo."
-date: "2026-04-03"
+date: "2024-07-14"
 slug: "como-dejar-de-compararte-con-los-demas"
 translationSlug: "como-parar-de-se-comparar-com-os-outros"
 tags: ["autoestima", "autoconocimiento", "bienestar"]

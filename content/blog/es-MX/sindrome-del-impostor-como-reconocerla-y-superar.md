@@ -1,7 +1,7 @@
 ---
 title: "Síndrome del Impostor: Cómo Reconocerla y Superar el Sentimiento de No Merecer"
 description: "¿Sientes que es cuestión de tiempo que todos descubran que no eres tan competente como creen? Conoce el síndrome del impostor y cómo manejarlo."
-date: "2026-04-03"
+date: "2025-12-09"
 slug: "sindrome-del-impostor-como-reconocerla-y-superar"
 translationSlug: "sindrome-do-impostor-como-reconhecer-e-superar"
 tags: ["autoconocimiento", "autoestima", "salud-mental"]

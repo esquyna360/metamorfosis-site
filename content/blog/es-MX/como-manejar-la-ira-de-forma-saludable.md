@@ -1,7 +1,7 @@
 ---
 title: "Cómo Manejar la Ira de Forma Saludable"
 description: "La ira es una emoción legítima y hasta necesaria — pero depende de cómo la expresamos. Aprende qué ocurre en el cerebro durante la ira, por qué suprimirla no funciona y qué prácticas realmente ayudan."
-date: "2026-04-02"
+date: "2024-09-05"
 slug: "como-manejar-la-ira-de-forma-saludable"
 translationSlug: "como-lidar-com-a-raiva-de-forma-saudavel"
 tags: ["ira", "emociones", "regulacion-emocional", "salud-emocional", "autoconocimiento"]
@@ -77,4 +77,4 @@ Cuando aprendemos a escuchar la ira sin ser gobernados por ella, se convierte en
 
 ---
 
-*En **Metamorfosis**, puedes registrar y explorar tus emociones — incluyendo las difíciles — con el apoyo de una IA que acoge sin juicios. Transforma lo que sientes en autoconocimiento. [Descarga gratis →](https://metamorfosisapp.com)*
+*En **Metamorfosis**, puedes registrar y explorar tus emociones — incluyendo las difíciles — con el apoyo de una IA que acoge sin juicios. Transforma lo que sientes en autoconocimiento. [Descarga gratis →](https://metamorfosis.app)*

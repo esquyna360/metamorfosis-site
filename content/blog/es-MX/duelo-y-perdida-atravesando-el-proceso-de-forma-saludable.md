@@ -1,7 +1,7 @@
 ---
 title: "Duelo y Pérdida: Cómo Atravesar el Proceso de Forma Saludable"
 description: "El duelo no es solo sobre la muerte — es sobre cualquier pérdida significativa. Entiende las fases del proceso, qué es normal sentir y cómo atravesar esta experiencia sin ahogar el dolor."
-date: "2026-04-02"
+date: "2024-10-14"
 slug: "duelo-y-perdida-atravesando-el-proceso-de-forma-saludable"
 translationSlug: "luto-e-perda-atravessando-o-processo-de-forma-saudavel"
 tags: ["duelo", "perdida", "salud-emocional", "autoconocimiento", "resiliencia"]
@@ -87,4 +87,4 @@ La integración de la pérdida no significa olvidar ni "superar". Significa apre
 
 ---
 
-*El **Metamorfosis** ofrece un espacio de escritura emocional diaria donde puedes procesar lo que sientes — incluso en los momentos más difíciles — con el apoyo de IA entrenada para acoger sin juicios. [Descarga gratis →](https://metamorfosisapp.com)*
+*El **Metamorfosis** ofrece un espacio de escritura emocional diaria donde puedes procesar lo que sientes — incluso en los momentos más difíciles — con el apoyo de IA entrenada para acoger sin juicios. [Descarga gratis →](https://metamorfosis.app)*

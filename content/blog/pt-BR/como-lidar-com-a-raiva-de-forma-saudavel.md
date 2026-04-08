@@ -1,7 +1,7 @@
 ---
 title: "Como Lidar com a Raiva de Forma Saudável"
 description: "A raiva é uma emoção legítima e até necessária — mas depende de como a expressamos. Aprenda o que acontece no cérebro durante a raiva, por que suprimi-la não funciona e quais práticas realmente ajudam."
-date: "2026-04-02"
+date: "2024-09-05"
 slug: "como-lidar-com-a-raiva-de-forma-saudavel"
 translationSlug: "como-manejar-la-ira-de-forma-saludable"
 tags: ["raiva", "emocoes", "regulacao-emocional", "saude-emocional", "autoconhecimento"]
@@ -77,4 +77,4 @@ Quando aprendemos a ouvir a raiva sem sermos governados por ela, ela se torna um
 
 ---
 
-*No **Metamorfosis**, você pode registrar e explorar suas emoções — incluindo as difíceis — com o apoio de uma IA que acolhe sem julgamentos. Transforme o que sente em autoconhecimento. [Baixe grátis →](https://metamorfosisapp.com)*
+*No **Metamorfosis**, você pode registrar e explorar suas emoções — incluindo as difíceis — com o apoio de uma IA que acolhe sem julgamentos. Transforme o que sente em autoconhecimento. [Baixe grátis →](https://metamorfosis.app)*

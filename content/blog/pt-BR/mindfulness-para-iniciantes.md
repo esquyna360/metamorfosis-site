@@ -1,7 +1,7 @@
 ---
 title: "Mindfulness para Iniciantes: O Que É, a Ciência por Trás e 4 Exercícios Práticos"
 description: "Mindfulness não é só meditação. Entenda o que a ciência diz sobre atenção plena, como ela muda o cérebro e como começar hoje com 4 exercícios simples e eficazes."
-date: "2026-04-03"
+date: "2025-06-08"
 slug: "mindfulness-para-iniciantes"
 translationSlug: "mindfulness-para-principiantes"
 tags: ["mindfulness", "meditacao", "bem-estar"]

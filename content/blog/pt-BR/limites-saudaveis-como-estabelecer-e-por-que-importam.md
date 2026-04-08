@@ -1,7 +1,7 @@
 ---
 title: "Limites Saudáveis: Como Estabelecer e Por Que Eles São um Ato de Amor"
 description: "Dizer não não é egoísmo — é autocuidado. Aprenda o que são limites saudáveis, por que tantas pessoas têm dificuldade em estabelecê-los e como começar a se posicionar de forma genuína."
-date: "2026-04-02"
+date: "2025-04-03"
 slug: "limites-saudaveis-como-estabelecer-e-por-que-importam"
 translationSlug: "limites-saludables-como-establecerlos-y-por-que-importan"
 tags: ["limites saudáveis", "autoconhecimento", "relacionamentos", "autocuidado emocional"]

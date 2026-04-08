@@ -1,7 +1,7 @@
 ---
 title: "Inteligencia Artificial y Salud Mental: Oportunidades y Riesgos"
 description: "La OMS estima que el 75% de las personas con trastornos mentales no tiene acceso a atención. La IA puede ayudar — pero también trae riesgos reales. Lo que las investigaciones dicen sobre herramientas como Woebot y Wysa, y cómo usarlas de forma responsable."
-date: "2026-04-03"
+date: "2025-02-23"
 slug: "inteligencia-artificial-y-salud-mental-oportunidades-y-riesgos"
 translationSlug: "inteligencia-artificial-e-saude-mental-oportunidades-e-riscos"
 tags: ["inteligencia-artificial", "salud-mental", "tecnologia"]

@@ -1,7 +1,7 @@
 ---
 title: "Comunicação Não-Violenta: Como Falar o Que Sente Sem Machucar"
 description: "O modelo de Marshall Rosenberg transforma conflitos em conexão. Entenda os 4 componentes da CNV, a diferença entre observações e julgamentos, e como formular pedidos que realmente funcionam."
-date: "2026-04-03"
+date: "2024-09-18"
 slug: "comunicacao-nao-violenta-como-falar-o-que-sente-sem-machucar"
 translationSlug: "comunicacion-no-violenta-como-expresar-lo-que-sientes-sin-lastimar"
 tags: ["relacionamentos", "comunicacao", "autoconhecimento"]

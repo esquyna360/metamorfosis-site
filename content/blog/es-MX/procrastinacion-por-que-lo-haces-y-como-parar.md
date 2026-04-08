@@ -1,7 +1,7 @@
 ---
 title: "Procrastinación: Por Qué Lo Haces y Cómo Parar"
 description: "La procrastinación no es pereza — es una falla en la regulación emocional. Entiende qué dice la investigación de Pychyl, el papel de la ansiedad y el perfeccionismo, y 4 estrategias basadas en evidencia para salir del ciclo."
-date: "2026-04-03"
+date: "2025-07-31"
 slug: "procrastinacion-por-que-lo-haces-y-como-parar"
 translationSlug: "procrastinacao-por-que-voce-faz-isso-e-como-parar"
 tags: ["productividad", "autoconocimiento", "bienestar"]

@@ -1,7 +1,7 @@
 ---
 title: "Emociones Difíciles: Cómo Procesar el Enojo, el Miedo y la Tristeza de Forma Saludable"
 description: "El enojo, el miedo y la tristeza no son emociones malas — son señales vitales. Entiende la función de cada una, por qué suprimirlas no funciona, y cómo la técnica RAIN de Tara Brach ayuda a procesar lo que es difícil de sentir."
-date: "2026-04-03"
+date: "2024-12-19"
 slug: "emociones-dificiles-como-procesar-el-enojo-el-miedo-y-la-tristeza"
 translationSlug: "emocoes-dificeis-como-processar-raiva-medo-e-tristeza"
 tags: ["emociones", "autoconocimiento", "salud-mental"]

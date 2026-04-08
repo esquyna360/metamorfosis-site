@@ -1,7 +1,7 @@
 ---
 title: "Ansiedad Social: Qué Es, Por Qué Ocurre y Cómo Manejarla"
 description: "Más que timidez, la ansiedad social puede limitar relaciones, carrera y calidad de vida. Entiende qué pasa en el cerebro y aprende estrategias basadas en evidencia para enfrentarla."
-date: "2026-04-03"
+date: "2024-03-05"
 slug: "ansiedad-social-que-es-y-como-manejarla"
 translationSlug: "ansiedade-social-o-que-e-e-como-lidar"
 tags: ["ansiedad-social", "ansiedad", "autoconocimiento", "salud-mental", "relaciones"]

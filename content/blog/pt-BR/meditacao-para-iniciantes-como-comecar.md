@@ -1,7 +1,7 @@
 ---
 title: "Meditação para Iniciantes: Como Começar Sem Complicar"
 description: "Você quer meditar mas não sabe por onde começar? Este guia prático explica o que é meditação de verdade, desmistifica os mitos e traz técnicas simples para os primeiros passos."
-date: "2026-04-03"
+date: "2025-04-30"
 slug: "meditacao-para-iniciantes-como-comecar"
 translationSlug: "meditacion-para-principiantes-como-empezar"
 tags: ["meditacao", "mindfulness", "bem-estar", "saude-mental", "ansiedade"]

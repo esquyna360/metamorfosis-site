@@ -1,7 +1,7 @@
 ---
 title: "Tristeza vs Depressão: Diferenças que Você Precisa Conhecer"
 description: "Tristeza e depressão não são a mesma coisa — mas muita gente confunde. Entenda as diferenças, quando buscar ajuda e por que essa distinção importa para sua saúde mental."
-date: "2026-04-03"
+date: "2026-02-26"
 slug: "tristeza-vs-depressao-diferencas-que-voce-precisa-conhecer"
 translationSlug: "tristeza-vs-depresion-diferencias-que-necesitas-conocer"
 tags: ["saude-mental", "depressao", "emocoes"]

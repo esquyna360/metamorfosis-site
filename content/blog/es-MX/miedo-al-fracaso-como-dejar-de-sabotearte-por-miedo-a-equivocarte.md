@@ -1,7 +1,7 @@
 ---
 title: "Miedo al Fracaso: Cómo Dejar de Sabotearte por Miedo a Equivocarte"
 description: "Entiende de dónde viene el miedo al fracaso, cómo paraliza y distorsiona decisiones — y técnicas prácticas para actuar a pesar del miedo y construir una relación más saludable con el error."
-date: "2026-04-03"
+date: "2025-05-26"
 slug: "miedo-al-fracaso-como-dejar-de-sabotearte-por-miedo-a-equivocarte"
 translationSlug: "medo-do-fracasso-como-parar-de-se-sabotar-pelo-medo-de-errar"
 tags: ["miedo-al-fracaso", "ansiedad", "crecimiento-personal", "autoconocimiento", "salud-mental"]

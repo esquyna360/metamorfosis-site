@@ -1,7 +1,7 @@
 ---
 title: "Perfeccionismo: Cuando la Búsqueda de lo Mejor Se Convierte en un Problema"
 description: "El perfeccionismo no es sinónimo de altos estándares. Entiende la distinción entre perfeccionismo adaptativo y desadaptativo, los 3 tipos descritos por Flett y Hewitt, el vínculo con la ansiedad y el burnout, y 4 estrategias para salir de la trampa."
-date: "2026-04-03"
+date: "2025-07-18"
 slug: "perfeccionismo-cuando-la-busqueda-de-lo-mejor-se-convierte-en-un-problema"
 translationSlug: "perfeccionismo-quando-a-busca-pelo-melhor-vira-um-problema"
 tags: ["perfeccionismo", "salud-mental", "autoconocimiento"]

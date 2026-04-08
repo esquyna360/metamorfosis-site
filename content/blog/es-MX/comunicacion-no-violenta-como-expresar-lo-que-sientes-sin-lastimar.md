@@ -1,7 +1,7 @@
 ---
 title: "Comunicación No Violenta: Cómo Expresar Lo Que Sientes Sin Lastimar"
 description: "El modelo de Marshall Rosenberg transforma conflictos en conexión. Conoce los 4 componentes de la CNV, la diferencia entre observaciones y juicios, y cómo formular peticiones que realmente funcionan."
-date: "2026-04-03"
+date: "2024-09-18"
 slug: "comunicacion-no-violenta-como-expresar-lo-que-sientes-sin-lastimar"
 translationSlug: "comunicacao-nao-violenta-como-falar-o-que-sente-sem-machucar"
 tags: ["relaciones", "comunicacion", "autoconocimiento"]

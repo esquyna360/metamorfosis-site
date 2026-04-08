@@ -1,7 +1,7 @@
 ---
 title: "Identidade: Quem Somos Além dos Nossos Papéis"
 description: "Mãe, profissional, parceiro — quando esses papéis terminam, quem sobra? Entenda a teoria de Erikson sobre desenvolvimento da identidade e 4 exercícios para descobrir quem você é além das funções que desempenha."
-date: "2026-04-03"
+date: "2025-02-10"
 slug: "identidade-quem-somos-alem-dos-nossos-papeis"
 translationSlug: "identidad-quienes-somos-mas-alla-de-nuestros-roles"
 tags: ["autoconhecimento", "identidade", "saude-mental"]

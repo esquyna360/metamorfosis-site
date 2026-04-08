@@ -1,7 +1,7 @@
 ---
 title: "Autocuidado Real: Além dos Banhos de Banheira e Máscaras Faciais"
 description: "A indústria transformou autocuidado em consumo. Mas Audre Lorde o definiu como ato político de autopreservação. Entenda as 8 dimensões do bem-estar e 3 perguntas para identificar o que você realmente precisa."
-date: "2026-04-03"
+date: "2024-04-26"
 slug: "autocuidado-real-alem-dos-banhos-de-banheira-e-mascaras-faciais"
 translationSlug: "autocuidado-real-mas-alla-de-los-banos-de-tina-y-mascaras-faciales"
 tags: ["autocuidado", "saude-mental", "bem-estar"]

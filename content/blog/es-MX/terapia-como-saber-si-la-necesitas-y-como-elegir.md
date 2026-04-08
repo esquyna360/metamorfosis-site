@@ -1,7 +1,7 @@
 ---
 title: "Terapia: Cómo Saber Si la Necesitas y Cómo Elegir a un Profesional"
 description: "La terapia no es solo para crisis. Entiende las señales de que puede ayudarte, desmitifica mitos comunes, conoce los principales enfoques y aprende a elegir un terapeuta que funcione para ti."
-date: "2026-04-03"
+date: "2026-02-13"
 slug: "terapia-como-saber-si-la-necesitas-y-como-elegir"
 translationSlug: "terapia-como-saber-se-voce-precisa-e-como-escolher"
 tags: ["terapia", "salud-mental", "autoconocimiento"]

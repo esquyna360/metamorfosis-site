@@ -8,16 +8,17 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'privacy' });
-  const url = `https://metamorfosisapp.com/${locale}/privacy`;
+  const prefix = locale === 'pt-BR' ? '' : `/${locale}`;
+  const url = `https://metamorfosis.app${prefix}/privacy`;
   return {
     title: t('metaTitle'),
     description: t('metaDescription'),
     alternates: {
       canonical: url,
       languages: {
-        'pt-BR': 'https://metamorfosisapp.com/pt-BR/privacy',
-        'es-MX': 'https://metamorfosisapp.com/es-MX/privacy',
-        'x-default': 'https://metamorfosisapp.com/pt-BR/privacy',
+        'pt-BR': 'https://metamorfosis.app/privacy',
+        'es-MX': 'https://metamorfosis.app/es-MX/privacy',
+        'x-default': 'https://metamorfosis.app/privacy',
       },
     },
     robots: { index: true, follow: true },
@@ -62,8 +63,8 @@ export default async function PrivacyPage({
           <p className="text-sm text-gray-500 text-center">
             {t('contact')}
             {' '}
-            <a href="mailto:suporte@metamorfosisapp.com" className="text-purple-600 hover:text-purple-800 font-medium">
-              suporte@metamorfosisapp.com
+            <a href="mailto:suporte@metamorfosis.app" className="text-purple-600 hover:text-purple-800 font-medium">
+              suporte@metamorfosis.app
             </a>
           </p>
         </div>

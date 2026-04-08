@@ -1,7 +1,7 @@
 ---
 title: "Como Desenvolver Inteligência Emocional"
 description: "Inteligência emocional não é um traço fixo de personalidade — é uma habilidade que pode ser desenvolvida. Conheça os 5 componentes do modelo de Goleman e exercícios práticos para desenvolver cada um deles."
-date: "2026-04-03"
+date: "2024-07-27"
 slug: "como-desenvolver-inteligencia-emocional"
 translationSlug: "como-desarrollar-inteligencia-emocional"
 tags: ["inteligencia-emocional", "autoconhecimento", "relacionamentos"]

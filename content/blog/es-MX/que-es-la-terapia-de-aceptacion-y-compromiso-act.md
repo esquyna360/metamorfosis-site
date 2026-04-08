@@ -1,7 +1,7 @@
 ---
 title: "Qué es la ACT (Terapia de Aceptación y Compromiso)"
 description: "Steven Hayes desarrolló la ACT como alternativa a la TCC clásica: en vez de cambiar pensamientos negativos, cambias tu relación con ellos. Entiende los 6 procesos centrales, el hexaflex y 2 ejercicios prácticos."
-date: "2026-04-03"
+date: "2025-10-04"
 slug: "que-es-la-terapia-de-aceptacion-y-compromiso-act"
 translationSlug: "o-que-e-a-terapia-de-aceitacao-e-compromisso-act"
 tags: ["terapia", "salud-mental", "autoconocimiento"]

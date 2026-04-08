@@ -1,7 +1,7 @@
 ---
 title: "Qué Es el Burnout y Cómo Recuperarse"
 description: "La OMS reconoció el burnout como fenómeno ocupacional en 2019. Entiende sus tres dimensiones, los estadios de desarrollo y cinco estrategias basadas en evidencia para recuperarte."
-date: "2026-04-03"
+date: "2025-08-26"
 slug: "que-es-el-burnout-y-como-recuperarse"
 translationSlug: "o-que-e-burnout-e-como-se-recuperar"
 tags: ["burnout", "salud-mental", "trabajo"]

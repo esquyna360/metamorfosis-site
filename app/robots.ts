@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://metamorfosisapp.com/sitemap.xml',
+    sitemap: 'https://metamorfosis.app/sitemap.xml',
   };
 }

@@ -26,7 +26,7 @@ export async function generateMetadata({
       template: `%s | Metamorfosis`,
     },
     description: t('description'),
-    metadataBase: new URL('https://metamorfosisapp.com'),
+    metadataBase: new URL('https://metamorfosis.app'),
     robots: {
       index: true,
       follow: true,

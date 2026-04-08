@@ -1,7 +1,7 @@
 ---
 title: "Autocompasión: Por Qué Ser Amable Contigo Mismo No Es Debilidad"
 description: "La investigadora Kristin Neff identificó 3 componentes de la autocompasión que transforman la relación con el crítico interno. Entiende la ciencia y aprende 3 ejercicios prácticos."
-date: "2026-04-03"
+date: "2024-04-13"
 slug: "autocompasion-por-que-ser-amable-contigo-mismo-no-es-debilidad"
 translationSlug: "autocompaixao-por-que-ser-gentil-consigo-mesmo-nao-e-fraqueza"
 tags: ["autocompasion", "autoconocimiento", "salud-mental"]

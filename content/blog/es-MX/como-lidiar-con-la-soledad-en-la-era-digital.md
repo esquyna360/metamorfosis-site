@@ -1,7 +1,7 @@
 ---
 title: "Cómo Lidiar con la Soledad en la Era Digital"
 description: "Nunca estuvimos tan conectados — y nunca nos sentimos tan solos. Sherry Turkle y otros investigadores explican la paradoja. Entiende los lazos débiles vs. fuertes, la dopamina y las redes sociales, y 4 estrategias prácticas para una reconexión real."
-date: "2026-04-03"
+date: "2024-08-09"
 slug: "como-lidiar-con-la-soledad-en-la-era-digital"
 translationSlug: "como-lidar-com-a-solidao-na-era-digital"
 tags: ["soledad", "tecnologia", "salud-mental"]

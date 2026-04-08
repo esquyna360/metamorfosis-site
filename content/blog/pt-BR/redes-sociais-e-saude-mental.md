@@ -1,7 +1,7 @@
 ---
 title: "Redes Sociais e Saúde Mental: Como Usar Sem Se Perder"
 description: "Redes sociais podem prejudicar sua autoestima e aumentar ansiedade — mas não precisam. Entenda a relação entre uso de redes e bem-estar emocional e como usar com mais consciência."
-date: "2026-04-03"
+date: "2025-10-18"
 slug: "redes-sociais-e-saude-mental"
 translationSlug: "redes-sociales-y-salud-mental"
 tags: ["saude-mental", "autoconhecimento", "ansiedade"]

@@ -1,7 +1,7 @@
 ---
 title: "El Duelo: Cómo Atravesarlo y Qué Es Normal Sentir"
 description: "Las cinco etapas de Kübler-Ross fueron descriptivas, no prescriptivas. La investigación de George Bonanno muestra que la mayoría de las personas no sigue un guión. Entiende el modelo del proceso dual, los tipos de duelo y lo que apoya la travesía."
-date: "2026-04-03"
+date: "2024-10-27"
 slug: "el-duelo-como-atravesarlo-y-que-es-normal-sentir"
 translationSlug: "luto-como-atravessa-lo-e-o-que-e-normal-sentir"
 tags: ["duelo", "salud-mental", "emociones"]

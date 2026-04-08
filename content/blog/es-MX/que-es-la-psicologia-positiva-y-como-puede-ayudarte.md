@@ -1,7 +1,7 @@
 ---
 title: "Qué es la Psicología Positiva y Cómo Puede Ayudarte"
 description: "Martin Seligman fundó la psicología positiva para estudiar lo que hace que la vida valga la pena — no solo lo que la enferma. Entiende el modelo PERMA, las intervenciones con evidencia científica, y cómo integrarlas sin negar lo que es difícil."
-date: "2026-04-03"
+date: "2025-09-21"
 slug: "que-es-la-psicologia-positiva-y-como-puede-ayudarte"
 translationSlug: "o-que-e-psicologia-positiva-e-como-ela-pode-ajudar-voce"
 tags: ["psicologia-positiva", "bienestar", "autoconocimiento"]

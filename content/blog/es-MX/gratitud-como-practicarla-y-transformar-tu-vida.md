@@ -1,7 +1,7 @@
 ---
 title: "Gratitud: Cómo Practicarla y Por Qué Transforma Tu Vida Emocional"
 description: "Descubre qué dice la ciencia sobre la gratitud, cómo cultivarla en el día a día y por qué esta práctica simple puede cambiar tu estado emocional de forma profunda."
-date: "2026-04-02"
+date: "2025-01-14"
 slug: "gratitud-como-practicarla-y-transformar-tu-vida"
 translationSlug: "gratidao-como-praticar-e-transformar-sua-vida"
 tags: ["gratitud", "bienestar", "salud-mental", "autoconocimiento"]

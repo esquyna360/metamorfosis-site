@@ -1,7 +1,7 @@
 ---
 title: "El Papel de las Emociones en la Toma de Decisiones"
 description: "Las emociones no obstaculizan las decisiones racionales — son datos esenciales. La hipótesis del marcador somático de Damasio, el secuestro de la amígdala y 4 estrategias para tomar decisiones más inteligentes usando tu inteligencia emocional."
-date: "2026-04-03"
+date: "2024-11-10"
 slug: "el-papel-de-las-emociones-en-la-toma-de-decisiones"
 translationSlug: "o-papel-das-emocoes-na-tomada-de-decisao"
 tags: ["emociones", "autoconocimiento", "neurociencia"]

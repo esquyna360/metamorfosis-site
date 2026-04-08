@@ -1,7 +1,7 @@
 ---
 title: "Regulação Emocional: Técnicas Práticas para Recuperar o Equilíbrio no Dia a Dia"
 description: "Emoções intensas não precisam te controlar. Aprenda o que é regulação emocional, por que ela importa e como treinar essa habilidade com práticas concretas e baseadas em ciência."
-date: "2026-04-02"
+date: "2025-10-31"
 slug: "regulacao-emocional-tecnicas-para-o-dia-a-dia"
 translationSlug: "regulacion-emocional-tecnicas-para-el-dia-a-dia"
 tags: ["regulacao-emocional", "saude-mental", "inteligencia-emocional", "ansiedade", "bem-estar"]
@@ -85,4 +85,4 @@ Regulação emocional se desenvolve com prática consistente, não com esforço 
 
 ---
 
-*O **Metamorfosis** foi criado para ser um espaço diário de reflexão emocional — onde você pode registrar suas emoções, identificar padrões e receber insights da IA para entender melhor suas reações e cultivar regulação emocional ao longo do tempo. [Baixe grátis →](https://metamorfosisapp.com)*
+*O **Metamorfosis** foi criado para ser um espaço diário de reflexão emocional — onde você pode registrar suas emoções, identificar padrões e receber insights da IA para entender melhor suas reações e cultivar regulação emocional ao longo do tempo. [Baixe grátis →](https://metamorfosis.app)*

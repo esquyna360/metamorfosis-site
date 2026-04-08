@@ -1,7 +1,7 @@
 ---
 title: "Limites Saudáveis: O Que São e Como Estabelecê-los"
 description: "Limites não são muros nem egoísmo — são a estrutura que torna os relacionamentos sustentáveis. Entenda o que são, por que temos dificuldade com eles e como comunicá-los com clareza."
-date: "2026-04-03"
+date: "2025-04-16"
 slug: "limites-saudaveis-o-que-sao-e-como-estabelece-los"
 translationSlug: "limites-saludables-que-son-y-como-establecerlos"
 tags: ["relacionamentos", "autoconhecimento", "saude-mental"]

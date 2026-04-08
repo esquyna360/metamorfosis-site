@@ -1,7 +1,7 @@
 ---
 title: "Autossabotagem: Por Que Nos Impedimos de Ser Felizes"
 description: "A autossabotagem é um padrão silencioso que bloqueia conquistas e relacionamentos. Entenda suas raízes psicológicas e como começar a interrompê-la."
-date: "2026-04-02"
+date: "2024-05-22"
 slug: "autossabotagem-por-que-nos-impedimos-de-ser-felizes"
 translationSlug: "autosabotaje-por-que-nos-impedimos-de-ser-felices"
 tags: ["autossabotagem", "autoconhecimento", "saude-emocional", "comportamento", "psicologia"]
@@ -87,4 +87,4 @@ A consciência já é uma forma de mudança. Perceber o padrão não o elimina i
 
 ---
 
-*O **Metamorfosis** oferece um espaço diário para você observar seus padrões emocionais e comportamentais com mais clareza — com o suporte de IA treinada para acolher sem julgamento. Comece agora: [baixe grátis →](https://metamorfosisapp.com)*
+*O **Metamorfosis** oferece um espaço diário para você observar seus padrões emocionais e comportamentais com mais clareza — com o suporte de IA treinada para acolher sem julgamento. Comece agora: [baixe grátis →](https://metamorfosis.app)*

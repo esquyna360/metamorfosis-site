@@ -1,7 +1,7 @@
 ---
 title: "Como Parar de Se Comparar com os Outros"
 description: "A comparação social é instintiva — mas nas redes sociais ela se tornou uma armadilha constante. Entenda a ciência por trás do hábito e quatro estratégias práticas para sair do ciclo."
-date: "2026-04-03"
+date: "2024-07-14"
 slug: "como-parar-de-se-comparar-com-os-outros"
 translationSlug: "como-dejar-de-compararte-con-los-demas"
 tags: ["autoestima", "autoconhecimento", "bem-estar"]

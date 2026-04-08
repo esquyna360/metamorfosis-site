@@ -1,7 +1,7 @@
 ---
 title: "Terapia Cognitivo-Comportamental: O Que É e Como Funciona"
 description: "A TCC é uma das abordagens psicoterapêuticas mais estudadas do mundo. Entenda seus princípios, técnicas centrais e quando ela pode ser o caminho para transformar pensamentos e comportamentos que limitam sua vida."
-date: "2026-04-03"
+date: "2026-01-31"
 slug: "terapia-cognitivo-comportamental-o-que-e-e-como-funciona"
 translationSlug: "terapia-cognitivo-conductual-que-es-y-como-funciona"
 tags: ["saude-mental", "terapia", "autoconhecimento"]

@@ -1,7 +1,7 @@
 ---
 title: "Ansiedade Social: O Que É, Por Que Acontece e Como Lidar"
 description: "Mais do que timidez, a ansiedade social pode limitar relacionamentos, carreira e qualidade de vida. Entenda o que acontece no cérebro e aprenda estratégias baseadas em evidências para enfrentá-la."
-date: "2026-04-03"
+date: "2024-03-05"
 slug: "ansiedade-social-o-que-e-e-como-lidar"
 translationSlug: "ansiedad-social-que-es-y-como-manejarla"
 tags: ["ansiedade-social", "ansiedade", "autoconhecimento", "saude-mental", "relacionamentos"]

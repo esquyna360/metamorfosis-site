@@ -1,7 +1,7 @@
 ---
 title: "Como Lidar com a Ansiedade no Dia a Dia"
 description: "Ansiedade é uma emoção normal — mas pode se tornar um problema. Entenda a diferença, o ciclo de evitação que a mantém, e 5 estratégias práticas baseadas em evidências para gerenciá-la."
-date: "2026-04-03"
+date: "2024-08-23"
 slug: "como-lidar-com-a-ansiedade-no-dia-a-dia"
 translationSlug: "como-manejar-la-ansiedad-en-el-dia-a-dia"
 tags: ["ansiedade", "saude-mental", "autoconhecimento"]

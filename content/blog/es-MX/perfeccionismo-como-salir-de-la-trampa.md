@@ -1,7 +1,7 @@
 ---
 title: "Perfeccionismo: Cómo Salir de la Trampa que Parece Virtud"
 description: "El perfeccionismo no es dedicación — es miedo disfrazado. Entiende cómo funciona en el cerebro, cómo reconocer sus patrones y cómo cultivar una relación más sana con el error y la imperfección."
-date: "2026-04-02"
+date: "2025-07-04"
 slug: "perfeccionismo-como-salir-de-la-trampa"
 translationSlug: "perfeccionismo-como-sair-da-armadilha"
 tags: ["perfeccionismo", "autoconocimiento", "salud-mental", "autocritica", "crecimiento-personal"]
@@ -81,4 +81,4 @@ La investigación en psicología positiva muestra que las personas que logran es
 
 ---
 
-*¿Quieres entender mejor tus patrones emocionales y trabajar la autocrítica con más gentileza? **Metamorfosis** ofrece reflexiones diarias con IA que ayudan a identificar creencias limitantes y cultivar una relación más compasiva contigo mismo. [Descarga gratis →](https://metamorfosisapp.com)*
+*¿Quieres entender mejor tus patrones emocionales y trabajar la autocrítica con más gentileza? **Metamorfosis** ofrece reflexiones diarias con IA que ayudan a identificar creencias limitantes y cultivar una relación más compasiva contigo mismo. [Descarga gratis →](https://metamorfosis.app)*

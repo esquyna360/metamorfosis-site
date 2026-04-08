@@ -1,7 +1,7 @@
 ---
 title: "Autoestima: Cómo Construir una Relación Saludable Contigo Mismo"
 description: "Entiende qué es la autoestima, cómo se forma, por qué oscila — y prácticas basadas en evidencia para cultivarla de forma estable y duradera."
-date: "2026-04-03"
+date: "2024-05-09"
 slug: "autoestima-como-construir-una-relacion-saludable-contigo-mismo"
 translationSlug: "autoestima-como-construir-uma-relacao-saudavel-consigo-mesmo"
 tags: ["autoestima", "autoconocimiento", "salud-mental", "bienestar", "crecimiento-personal"]

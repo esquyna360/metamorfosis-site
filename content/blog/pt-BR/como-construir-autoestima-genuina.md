@@ -1,7 +1,7 @@
 ---
 title: "Como Construir Autoestima Genuína (e Por Que a Maioria das Abordagens Não Funciona)"
 description: "Autoestima baseada em conquistas é instável. Entenda a diferença entre autoestima genuína e frágil, os 6 pilares de Nathaniel Branden e por que a autocompaixão é uma base mais sólida."
-date: "2026-04-03"
+date: "2024-06-18"
 slug: "como-construir-autoestima-genuina"
 translationSlug: "como-construir-autoestima-genuina"
 tags: ["autoestima", "autoconhecimento", "saude-mental"]

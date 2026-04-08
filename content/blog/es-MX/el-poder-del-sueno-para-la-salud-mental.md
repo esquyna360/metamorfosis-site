@@ -1,7 +1,7 @@
 ---
 title: "El Poder del Sueño para la Salud Mental"
 description: "El sueño no es un lujo — es infraestructura mental. Entiende qué sucede en el cerebro durante el sueño, cómo la privación afecta las emociones, y 7 estrategias basadas en evidencia para dormir mejor."
-date: "2026-04-03"
+date: "2024-12-06"
 slug: "el-poder-del-sueno-para-la-salud-mental"
 translationSlug: "o-poder-do-sono-para-a-saude-mental"
 tags: ["sueno", "salud-mental", "bienestar"]

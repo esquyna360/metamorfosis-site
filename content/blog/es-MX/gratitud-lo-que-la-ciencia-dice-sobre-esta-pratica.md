@@ -1,7 +1,7 @@
 ---
 title: "Gratitud: Lo Que la Ciencia Dice Sobre Esta Práctica"
 description: "La gratitud tiene una base científica sólida — pero también es mal comprendida. Entiende la investigación de Robert Emmons, los mecanismos neurales involucrados, cuándo la gratitud es difícil, y 3 prácticas basadas en evidencia que realmente funcionan."
-date: "2026-04-03"
+date: "2025-01-27"
 slug: "gratitud-lo-que-la-ciencia-dice-sobre-esta-pratica"
 translationSlug: "gratidao-o-que-a-ciencia-diz-sobre-essa-pratica"
 tags: ["gratitud", "bienestar", "autoconocimiento"]

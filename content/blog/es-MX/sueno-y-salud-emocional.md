@@ -1,7 +1,7 @@
 ---
 title: "Sueño y Salud Emocional: Por Qué Dormir Bien Es un Acto de Autocuidado"
 description: "Entiende la relación profunda entre el sueño y el equilibrio emocional, y cómo mejorar la calidad de tu descanso puede transformar cómo manejas tus emociones."
-date: "2026-04-02"
+date: "2026-01-18"
 slug: "sueno-y-salud-emocional"
 translationSlug: "sono-e-saude-emocional"
 tags: ["sueno", "salud-mental", "autocuidado", "bienestar"]

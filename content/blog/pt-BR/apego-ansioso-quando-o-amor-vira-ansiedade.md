@@ -1,7 +1,7 @@
 ---
 title: "Apego Ansioso: Quando o Amor Vira Ansiedade"
 description: "Você se preocupa demais com o que seu parceiro está sentindo, precisa de reasseguramento constante e tem medo de ser abandonado? Pode ser apego ansioso. Entenda a ciência e como mudar."
-date: "2026-04-03"
+date: "2024-03-18"
 slug: "apego-ansioso-quando-o-amor-vira-ansiedade"
 translationSlug: "apego-ansioso-cuando-el-amor-se-vuelve-ansiedad"
 tags: ["relacionamentos", "ansiedade", "autoconhecimento"]

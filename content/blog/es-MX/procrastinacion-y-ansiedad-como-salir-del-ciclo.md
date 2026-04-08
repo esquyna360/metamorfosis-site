@@ -1,7 +1,7 @@
 ---
 title: "Procrastinación y Ansiedad: Cómo Salir del Ciclo que Te Paraliza"
 description: "Procrastinar no es flojera — es un mecanismo de defensa frente a la ansiedad. Entiende la conexión entre ambas y aprende estrategias prácticas para actuar incluso cuando todo parece demasiado difícil."
-date: "2026-04-02"
+date: "2025-08-13"
 slug: "procrastinacion-y-ansiedad-como-salir-del-ciclo"
 translationSlug: "procrastinacao-e-ansiedade-como-sair-do-ciclo"
 tags: ["ansiedad", "procrastinación", "autoconocimiento", "productividad emocional"]

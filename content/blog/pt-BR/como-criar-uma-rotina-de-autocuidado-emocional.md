@@ -1,7 +1,7 @@
 ---
 title: "Como Criar uma Rotina de Autocuidado Emocional que Realmente Funciona"
 description: "Descubra como montar uma rotina diária de autocuidado emocional sustentável, com técnicas baseadas em ciência e ferramentas práticas para cuidar da sua saúde mental todos os dias."
-date: "2026-04-02"
+date: "2024-07-01"
 slug: "como-criar-uma-rotina-de-autocuidado-emocional"
 translationSlug: "como-crear-una-rutina-de-autocuidado-emocional"
 tags: ["autocuidado", "rotina", "saude-mental", "bem-estar", "habitos"]
@@ -123,4 +123,4 @@ O autocuidado emocional não é um destino. É uma direção que você escolhe t
 
 ---
 
-*Quer um apoio diário para sua jornada emocional? O **Metamorfosis** oferece um espaço seguro para registrar seus sentimentos, receber reflexões personalizadas com IA e acompanhar sua evolução emocional ao longo do tempo. [Baixe grátis na App Store ou Google Play.](https://metamorfosis-site.vercel.app)*
+*Quer um apoio diário para sua jornada emocional? O **Metamorfosis** oferece um espaço seguro para registrar seus sentimentos, receber reflexões personalizadas com IA e acompanhar sua evolução emocional ao longo do tempo. [Baixe grátis na App Store ou Google Play.](https://metamorfosis.app)*

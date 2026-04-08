@@ -1,7 +1,7 @@
 ---
 title: "Identidad: Quiénes Somos Más Allá de Nuestros Roles"
 description: "Madre, profesional, pareja — cuando esos roles terminan, ¿quién queda? Entiende la teoría de Erikson sobre el desarrollo de la identidad y 4 ejercicios para descubrir quién eres más allá de las funciones que desempeñas."
-date: "2026-04-03"
+date: "2025-02-10"
 slug: "identidad-quienes-somos-mas-alla-de-nuestros-roles"
 translationSlug: "identidade-quem-somos-alem-dos-nossos-papeis"
 tags: ["autoconocimiento", "identidad", "salud-mental"]

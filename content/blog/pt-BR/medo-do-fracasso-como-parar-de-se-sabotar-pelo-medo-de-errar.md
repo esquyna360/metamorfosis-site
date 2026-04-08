@@ -1,7 +1,7 @@
 ---
 title: "Medo do Fracasso: Como Parar de Se Sabotar pelo Medo de Errar"
 description: "Entenda de onde vem o medo do fracasso, como ele paralisa e distorce decisões — e técnicas práticas para agir mesmo com medo e construir uma relação mais saudável com o erro."
-date: "2026-04-03"
+date: "2025-05-26"
 slug: "medo-do-fracasso-como-parar-de-se-sabotar-pelo-medo-de-errar"
 translationSlug: "miedo-al-fracaso-como-dejar-de-sabotearte-por-miedo-a-equivocarte"
 tags: ["medo-do-fracasso", "ansiedade", "crescimento-pessoal", "autoconhecimento", "saude-mental"]

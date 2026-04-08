@@ -1,7 +1,7 @@
 ---
 title: "Procrastinação e Ansiedade: Como Sair do Ciclo que Te Paralisa"
 description: "Procrastinar não é preguiça — é um mecanismo de defesa contra a ansiedade. Entenda a conexão entre os dois e aprenda estratégias práticas para agir mesmo quando tudo parece difícil demais."
-date: "2026-04-02"
+date: "2025-08-13"
 slug: "procrastinacao-e-ansiedade-como-sair-do-ciclo"
 translationSlug: "procrastinacion-y-ansiedad-como-salir-del-ciclo"
 tags: ["ansiedade", "procrastinação", "autoconhecimento", "produtividade emocional"]

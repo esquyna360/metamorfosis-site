@@ -1,7 +1,7 @@
 ---
 title: "Emoções Difíceis: Como Processar Raiva, Medo e Tristeza de Forma Saudável"
 description: "Raiva, medo e tristeza não são emoções ruins — são sinais vitais. Entenda a função de cada uma, por que suprimi-las não funciona, e como a técnica RAIN de Tara Brach ajuda a processar o que é difícil de sentir."
-date: "2026-04-03"
+date: "2024-12-19"
 slug: "emocoes-dificeis-como-processar-raiva-medo-e-tristeza"
 translationSlug: "emociones-dificiles-como-procesar-el-enojo-el-miedo-y-la-tristeza"
 tags: ["emocoes", "autoconhecimento", "saude-mental"]

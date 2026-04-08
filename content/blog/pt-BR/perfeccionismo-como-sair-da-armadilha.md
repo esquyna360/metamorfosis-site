@@ -1,7 +1,7 @@
 ---
 title: "Perfeccionismo: Como Sair da Armadilha que Parece Virtude"
 description: "O perfeccionismo não é dedicação — é medo disfarçado. Entenda como ele funciona no cérebro, como reconhecer seus padrões e como cultivar uma relação mais saudável com o erro e a imperfeição."
-date: "2026-04-02"
+date: "2025-07-04"
 slug: "perfeccionismo-como-sair-da-armadilha"
 translationSlug: "perfeccionismo-como-salir-de-la-trampa"
 tags: ["perfeccionismo", "autoconhecimento", "saude-mental", "autocritica", "crescimento-pessoal"]
@@ -81,4 +81,4 @@ A pesquisa em psicologia positiva mostra que as pessoas que conseguem este equil
 
 ---
 
-*Quer entender melhor seus padrões emocionais e trabalhar a autocrítica com mais gentileza? O **Metamorfosis** oferece reflexões diárias com IA que ajudam a identificar crenças limitantes e cultivar uma relação mais compassiva consigo mesmo. [Baixe grátis →](https://metamorfosisapp.com)*
+*Quer entender melhor seus padrões emocionais e trabalhar a autocrítica com mais gentileza? O **Metamorfosis** oferece reflexões diárias com IA que ajudam a identificar crenças limitantes e cultivar uma relação mais compassiva consigo mesmo. [Baixe grátis →](https://metamorfosis.app)*

@@ -28,7 +28,8 @@ export async function generateMetadata({ params: { locale, slug } }: Props): Pro
   const post = await getPostWithContent(slug, locale);
   if (!post) return {};
 
-  const url = `https://metamorfosisapp.com/${locale}/blog/${slug}`;
+  const prefix = locale === 'pt-BR' ? '' : `/${locale}`;
+  const url = `https://metamorfosis.app${prefix}/blog/${slug}`;
 
   // Build cross-locale hreflang URLs using translationSlug if available
   const altSlug = post.translationSlug ?? slug;
@@ -57,9 +58,9 @@ export async function generateMetadata({ params: { locale, slug } }: Props): Pro
     alternates: {
       canonical: url,
       languages: {
-        'pt-BR': `https://metamorfosisapp.com/pt-BR/blog/${ptSlug}`,
-        'es-MX': `https://metamorfosisapp.com/es-MX/blog/${esSlug}`,
-        'x-default': `https://metamorfosisapp.com/pt-BR/blog/${ptSlug}`,
+        'pt-BR': `https://metamorfosis.app/blog/${ptSlug}`,
+        'es-MX': `https://metamorfosis.app/es-MX/blog/${esSlug}`,
+        'x-default': `https://metamorfosis.app/blog/${ptSlug}`,
       },
     },
   };
@@ -74,7 +75,8 @@ export default async function BlogPostPage({ params: { locale, slug } }: Props) 
     notFound();
   }
 
-  const articleUrl = `https://metamorfosisapp.com/${locale}/blog/${slug}`;
+  const articlePrefix = locale === 'pt-BR' ? '' : `/${locale}`;
+  const articleUrl = `https://metamorfosis.app${articlePrefix}/blog/${slug}`;
   const articleJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -89,15 +91,15 @@ export default async function BlogPostPage({ params: { locale, slug } }: Props) 
     author: {
       '@type': 'Organization',
       name: 'Metamorfosis',
-      url: 'https://metamorfosisapp.com',
+      url: 'https://metamorfosis.app',
     },
     publisher: {
       '@type': 'Organization',
       name: 'Metamorfosis',
-      url: 'https://metamorfosisapp.com',
+      url: 'https://metamorfosis.app',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://metamorfosisapp.com/logo.png',
+        url: 'https://metamorfosis.app/logo.png',
       },
     },
   };

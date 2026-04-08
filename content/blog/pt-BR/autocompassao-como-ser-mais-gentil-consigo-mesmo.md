@@ -1,7 +1,7 @@
 ---
 title: "Autocompaixão: Como Ser Mais Gentil Consigo Mesmo (e Por Que Isso Muda Tudo)"
 description: "Aprenda o que é autocompaixão, por que não é o mesmo que autoindulgência, e como cultivar essa habilidade para reduzir a autocrítica, a ansiedade e melhorar seu bem-estar emocional."
-date: "2026-04-02"
+date: "2024-03-31"
 slug: "autocompassao-como-ser-mais-gentil-consigo-mesmo"
 translationSlug: "autocompasion-como-ser-mas-amable-contigo-mismo"
 tags: ["autocompassao", "autocritica", "saude-mental", "bem-estar", "autoconhecimento"]
@@ -124,4 +124,4 @@ Essa percepção já é o começo de uma relação diferente consigo mesmo.
 
 ---
 
-*O **Metamorfosis** foi criado para ser esse espaço seguro de reflexão — onde você pode se expressar livremente, receber perspectivas com IA e cultivar uma relação mais gentil consigo mesmo. [Baixe grátis →](https://metamorfosis-site.vercel.app)*
+*O **Metamorfosis** foi criado para ser esse espaço seguro de reflexão — onde você pode se expressar livremente, receber perspectivas com IA e cultivar uma relação mais gentil consigo mesmo. [Baixe grátis →](https://metamorfosis.app)*

@@ -1,7 +1,7 @@
 ---
 title: "Diálogo Interno: Como Reconhecer e Transformar Sua Voz Crítica"
 description: "Aquela voz que diz 'você não é bom o suficiente' não é a verdade — é um padrão aprendido. Entenda o que é o diálogo interno, como ele se forma e como transformá-lo."
-date: "2026-04-02"
+date: "2024-10-01"
 slug: "dialogo-interno-como-silenciar-a-voz-critica"
 translationSlug: "dialogo-interno-como-silenciar-la-voz-critica"
 tags: ["dialogo-interno", "autoconhecimento", "saude-mental", "autocompaixao", "bem-estar"]
@@ -86,4 +86,4 @@ O que muda com o tempo não é silenciar a voz completamente, mas aprender a nã
 
 ---
 
-*O **Metamorfosis** oferece um espaço diário para registrar seus pensamentos, identificar padrões do seu diálogo interno e receber insights com IA que ajudam você a se entender melhor. Dê o primeiro passo: [baixe grátis →](https://metamorfosisapp.com)*
+*O **Metamorfosis** oferece um espaço diário para registrar seus pensamentos, identificar padrões do seu diálogo interno e receber insights com IA que ajudam você a se entender melhor. Dê o primeiro passo: [baixe grátis →](https://metamorfosis.app)*

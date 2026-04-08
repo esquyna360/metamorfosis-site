@@ -1,7 +1,7 @@
 ---
 title: "El Papel del Cuerpo en las Emociones: Por Qué Sentir No Es Solo Cosa de la Mente"
 description: "La ciencia muestra que las emociones nacen en el cuerpo antes de llegar a la mente. Entiende la teoría somática, la teoría polivagal y 4 prácticas corporales para regular tu estado emocional."
-date: "2026-04-03"
+date: "2024-11-23"
 slug: "el-papel-del-cuerpo-en-las-emociones"
 translationSlug: "o-papel-do-corpo-nas-emocoes"
 tags: ["emociones", "cuerpo", "salud-mental"]

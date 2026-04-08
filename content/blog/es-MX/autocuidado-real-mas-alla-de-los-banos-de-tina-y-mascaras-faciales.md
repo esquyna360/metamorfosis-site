@@ -1,7 +1,7 @@
 ---
 title: "Autocuidado Real: Más Allá de los Baños de Tina y las Máscaras Faciales"
 description: "La industria convirtió el autocuidado en consumo. Pero Audre Lorde lo definió como un acto político de autopreservación. Entiende las 8 dimensiones del bienestar y 3 preguntas para identificar lo que realmente necesitas."
-date: "2026-04-03"
+date: "2024-04-26"
 slug: "autocuidado-real-mas-alla-de-los-banos-de-tina-y-mascaras-faciales"
 translationSlug: "autocuidado-real-alem-dos-banhos-de-banheira-e-mascaras-faciais"
 tags: ["autocuidado", "salud-mental", "bienestar"]

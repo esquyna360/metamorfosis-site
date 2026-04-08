@@ -1,7 +1,7 @@
 ---
 title: "Estilos de Apego: Como Sua Infância Moldou Seus Relacionamentos"
 description: "Entenda os 4 estilos de apego — seguro, ansioso, evitativo e desorganizado — e descubra como eles influenciam seus relacionamentos adultos e como mudar padrões."
-date: "2026-04-03"
+date: "2025-01-01"
 slug: "estilos-de-apego-como-afetam-seus-relacionamentos"
 translationSlug: "estilos-de-apego-como-afectan-tus-relaciones"
 tags: ["relacionamentos", "autoconhecimento", "saude-mental"]

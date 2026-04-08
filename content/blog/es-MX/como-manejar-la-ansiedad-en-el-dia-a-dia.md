@@ -1,7 +1,7 @@
 ---
 title: "Cómo Manejar la Ansiedad en el Día a Día"
 description: "La ansiedad es una emoción normal — pero puede convertirse en un problema. Entiende la diferencia, el ciclo de evitación que la mantiene, y 5 estrategias prácticas basadas en evidencia para manejarla."
-date: "2026-04-03"
+date: "2024-08-23"
 slug: "como-manejar-la-ansiedad-en-el-dia-a-dia"
 translationSlug: "como-lidar-com-a-ansiedade-no-dia-a-dia"
 tags: ["ansiedad", "salud-mental", "autoconocimiento"]

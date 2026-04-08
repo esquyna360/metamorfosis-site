@@ -1,7 +1,7 @@
 ---
 title: "Vergonha e Culpa: Entendendo Duas Emoções que Nos Paralisam"
 description: "Vergonha e culpa parecem iguais, mas funcionam de formas opostas. A pesquisa de June Price Tangney e a teoria de Brené Brown explicam por que uma nos paralisa e a outra pode nos mover — e como processar cada uma."
-date: "2026-04-03"
+date: "2026-03-11"
 slug: "vergonha-e-culpa-entendendo-duas-emocoes-que-nos-paralisam"
 translationSlug: "verguenza-y-culpa-entendiendo-dos-emociones-que-nos-paralizan"
 tags: ["emocoes", "autoconhecimento", "saude-mental"]

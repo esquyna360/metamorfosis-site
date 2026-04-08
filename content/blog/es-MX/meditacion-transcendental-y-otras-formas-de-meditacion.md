@@ -1,7 +1,7 @@
 ---
 title: "Meditación Transcendental y Otras Formas de Meditación Más Allá del Mindfulness"
 description: "El mindfulness no es la única puerta de entrada a la práctica meditativa. Conoce las grandes tradiciones — de la Meditación Transcendental al Zen, del Yoga Nidra a la oración contemplativa — y descubre cuál puede encajar mejor con tu personalidad."
-date: "2026-04-03"
+date: "2025-05-13"
 slug: "meditacion-transcendental-y-otras-formas-de-meditacion"
 translationSlug: "meditacao-transcendental-e-outras-formas-de-meditacao"
 tags: ["meditacion", "mindfulness", "bienestar"]

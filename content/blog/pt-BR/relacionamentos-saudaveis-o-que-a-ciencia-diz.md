@@ -1,7 +1,7 @@
 ---
 title: "Relacionamentos Saudáveis: O Que a Ciência Diz Sobre Conexões que Nutrem"
 description: "John Gottman identificou os padrões que destroem relacionamentos — e os que os sustentam. Entenda a razão 5:1, os Quatro Cavaleiros, e 3 práticas baseadas em evidências para fortalecer qualquer relação."
-date: "2026-04-03"
+date: "2025-11-13"
 slug: "relacionamentos-saudaveis-o-que-a-ciencia-diz"
 translationSlug: "relaciones-saludables-lo-que-la-ciencia-dice"
 tags: ["relacionamentos", "saude-mental", "bem-estar"]

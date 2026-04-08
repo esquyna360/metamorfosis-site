@@ -1,7 +1,7 @@
 ---
 title: "Resiliencia Emocional: Cómo Desarrollar la Capacidad de Recuperarte"
 description: "La resiliencia no es no sentir dolor — es poder recuperarte de él. Entiende qué dice la ciencia sobre la resiliencia emocional y cómo cultivarla en el día a día."
-date: "2026-04-03"
+date: "2025-11-26"
 slug: "resiliencia-emocional-como-recuperarse-de-cualquier-cosa"
 translationSlug: "resiliencia-emocional-como-se-recuperar-de-qualquer-coisa"
 tags: ["salud-mental", "autoconocimiento", "bienestar"]

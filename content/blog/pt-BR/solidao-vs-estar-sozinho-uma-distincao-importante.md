@@ -1,7 +1,7 @@
 ---
 title: "Solidão vs Estar Sozinho: Uma Distinção Importante"
 description: "Solidão e estar sozinho não são a mesma coisa. Entenda a diferença, os efeitos da solidão crônica na saúde segundo John Cacioppo, e 4 formas de cultivar conexão genuína — e uma relação melhor com sua própria companhia."
-date: "2026-04-03"
+date: "2025-12-22"
 slug: "solidao-vs-estar-sozinho-uma-distincao-importante"
 translationSlug: "soledad-vs-estar-solo-una-distincion-importante"
 tags: ["saude-mental", "relacionamentos", "autoconhecimento"]

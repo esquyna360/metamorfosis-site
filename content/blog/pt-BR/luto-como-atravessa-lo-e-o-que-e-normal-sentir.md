@@ -1,7 +1,7 @@
 ---
 title: "Luto: Como Atravessá-lo e o Que É Normal Sentir"
 description: "Os cinco estágios de Kübler-Ross foram descritivos, não prescritivos. A pesquisa de George Bonanno mostra que a maioria das pessoas não segue um roteiro. Entenda o modelo do processo dual, os tipos de luto e o que suporta a travessia."
-date: "2026-04-03"
+date: "2024-10-27"
 slug: "luto-como-atravessa-lo-e-o-que-e-normal-sentir"
 translationSlug: "el-duelo-como-atravesarlo-y-que-es-normal-sentir"
 tags: ["luto", "saude-mental", "emocoes"]

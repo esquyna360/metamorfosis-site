@@ -8,16 +8,17 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   setRequestLocale(locale);
   const t = await getTranslations({ locale, namespace: 'terms' });
-  const url = `https://metamorfosisapp.com/${locale}/terms`;
+  const prefix = locale === 'pt-BR' ? '' : `/${locale}`;
+  const url = `https://metamorfosis.app${prefix}/terms`;
   return {
     title: t('metaTitle'),
     description: t('metaDescription'),
     alternates: {
       canonical: url,
       languages: {
-        'pt-BR': 'https://metamorfosisapp.com/pt-BR/terms',
-        'es-MX': 'https://metamorfosisapp.com/es-MX/terms',
-        'x-default': 'https://metamorfosisapp.com/pt-BR/terms',
+        'pt-BR': 'https://metamorfosis.app/terms',
+        'es-MX': 'https://metamorfosis.app/es-MX/terms',
+        'x-default': 'https://metamorfosis.app/terms',
       },
     },
     robots: { index: true, follow: true },
@@ -62,8 +63,8 @@ export default async function TermsPage({
           <p className="text-sm text-gray-500 text-center">
             {t('contact')}
             {' '}
-            <a href="mailto:suporte@metamorfosisapp.com" className="text-purple-600 hover:text-purple-800 font-medium">
-              suporte@metamorfosisapp.com
+            <a href="mailto:suporte@metamorfosis.app" className="text-purple-600 hover:text-purple-800 font-medium">
+              suporte@metamorfosis.app
             </a>
           </p>
         </div>

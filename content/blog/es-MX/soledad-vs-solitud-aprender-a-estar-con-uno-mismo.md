@@ -1,7 +1,7 @@
 ---
 title: "Soledad vs. Solitud: El Arte de Estar Bien con Uno Mismo"
 description: "Soledad y solitud parecen iguales, pero son experiencias opuestas. Entiende la diferencia y aprende a transformar el tiempo a solas en fuente de autoconocimiento."
-date: "2026-04-02"
+date: "2026-01-05"
 slug: "soledad-vs-solitud-aprender-a-estar-con-uno-mismo"
 translationSlug: "solidao-vs-solitude-aprender-a-estar-consigo-mesmo"
 tags: ["soledad", "solitud", "autoconocimiento", "bienestar", "salud-emocional"]
@@ -82,4 +82,4 @@ La solitud, paradójicamente, nos hace mejores en la conexión.
 
 ---
 
-***Metamorfosis** es un espacio para conectarte con tu mundo interior — unos pocos minutos al día, con el apoyo de IA que acoge sin juzgar. Pruébalo gratis: [descarga el app →](https://metamorfosisapp.com)*
+***Metamorfosis** es un espacio para conectarte con tu mundo interior — unos pocos minutos al día, con el apoyo de IA que acoge sin juzgar. Pruébalo gratis: [descarga el app →](https://metamorfosis.app)*

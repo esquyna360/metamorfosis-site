@@ -1,7 +1,7 @@
 ---
 title: "Inteligência Emocional nos Relacionamentos: Como Ela Transforma Suas Conexões"
 description: "Aprenda como desenvolver inteligência emocional pode transformar seus relacionamentos — amorosos, familiares e profissionais — e por que essa habilidade é mais importante do que você imagina."
-date: "2026-04-02"
+date: "2025-03-08"
 slug: "inteligencia-emocional-nos-relacionamentos"
 translationSlug: "inteligencia-emocional-en-las-relaciones"
 tags: ["inteligencia-emocional", "relacionamentos", "autoconhecimento", "comunicacao"]

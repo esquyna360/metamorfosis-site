@@ -1,7 +1,7 @@
 ---
 title: "Vulnerabilidade e Coragem: Por Que Ser Visto É um Ato de Força"
 description: "Vulnerabilidade não é fraqueza — é a disposição de aparecer quando não há garantias. Entenda por que abrir espaço para ela transforma relacionamentos e autoconhecimento."
-date: "2026-04-02"
+date: "2026-03-25"
 slug: "vulnerabilidade-e-coragem-a-forca-de-ser-visto"
 translationSlug: "vulnerabilidad-y-coraje-la-fuerza-de-ser-visto"
 tags: ["vulnerabilidade", "coragem", "autoconhecimento", "relacionamentos", "saude-emocional"]
@@ -87,4 +87,4 @@ Quando nos permitimos ver o que está realmente acontecendo dentro de nós — s
 
 ---
 
-*O **Metamorfosis** é um espaço de reflexão diária onde você pode explorar o que sente com honestidade — sem julgamento, com o suporte de IA treinada para acolher. Comece sua jornada: [baixe grátis →](https://metamorfosisapp.com)*
+*O **Metamorfosis** é um espaço de reflexão diária onde você pode explorar o que sente com honestidade — sem julgamento, com o suporte de IA treinada para acolher. Comece sua jornada: [baixe grátis →](https://metamorfosis.app)*

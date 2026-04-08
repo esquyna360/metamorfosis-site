@@ -1,7 +1,7 @@
 ---
 title: "Neurodiversidade: TDAH, Autismo e Como Acolher Mentes Diferentes"
 description: "Nick Walker e Judy Singer cunharam o conceito de neurodiversidade para redefinir TDAH e autismo como estilos cognitivos diferentes — não apenas déficits. Entenda o mascaramento, o diagnóstico tardio e como criar ambientes mais inclusivos."
-date: "2026-04-03"
+date: "2025-06-21"
 slug: "neurodiversidade-tdah-autismo-e-como-acolher-mentes-diferentes"
 translationSlug: "neurodiversidad-tdah-autismo-y-como-acoger-mentes-diferentes"
 tags: ["neurodiversidade", "saude-mental", "autoconhecimento"]

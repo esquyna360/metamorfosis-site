@@ -1,7 +1,7 @@
 ---
 title: "Luto e Perda: Como Atravessar o Processo de Forma Saudável"
 description: "O luto não é apenas sobre morte — é sobre qualquer perda significativa. Entenda as fases do processo, o que é normal sentir e como atravessar essa experiência sem sufocar a dor."
-date: "2026-04-02"
+date: "2024-10-14"
 slug: "luto-e-perda-atravessando-o-processo-de-forma-saudavel"
 translationSlug: "duelo-y-perdida-atravesando-el-proceso-de-forma-saludable"
 tags: ["luto", "perda", "saude-emocional", "autoconhecimento", "resiliencia"]
@@ -87,4 +87,4 @@ A integração da perda não significa esquecer ou "superar". Significa aprender
 
 ---
 
-*O **Metamorfosis** oferece um espaço de escrita emocional diária onde você pode processar o que sente — inclusive nos momentos mais difíceis — com o suporte de IA treinada para acolher sem julgamentos. [Baixe grátis →](https://metamorfosisapp.com)*
+*O **Metamorfosis** oferece um espaço de escrita emocional diária onde você pode processar o que sente — inclusive nos momentos mais difíceis — com o suporte de IA treinada para acolher sem julgamentos. [Baixe grátis →](https://metamorfosis.app)*

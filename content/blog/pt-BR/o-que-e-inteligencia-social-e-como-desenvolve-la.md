@@ -1,7 +1,7 @@
 ---
 title: "O Que É Inteligência Social e Como Desenvolvê-la"
 description: "Inteligência social não é o mesmo que inteligência emocional. Entenda os dois domínios definidos por Daniel Goleman, por que ela importa para o bem-estar, e 4 exercícios práticos para desenvolvê-la."
-date: "2026-04-03"
+date: "2025-09-08"
 slug: "o-que-e-inteligencia-social-e-como-desenvolve-la"
 translationSlug: "que-es-la-inteligencia-social-y-como-desarrollarla"
 tags: ["inteligencia-social", "relacionamentos", "autoconhecimento"]
