@@ -7,20 +7,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  async redirects() {
-    return [
-      {
-        source: '/pt-BR',
-        destination: '/',
-        permanent: true,
-      },
-      {
-        source: '/pt-BR/:path*',
-        destination: '/:path*',
-        permanent: true,
-      },
-    ];
-  },
 };
 
 export default withNextIntl(nextConfig);
